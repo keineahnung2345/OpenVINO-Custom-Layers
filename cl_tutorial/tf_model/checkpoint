@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/cl_new/model.ckpt"
+all_model_checkpoint_paths: "/root/cl_new/model.ckpt"
